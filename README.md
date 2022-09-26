@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Mikynose
-- 👀 I’m interested in Game Programming and Game Design
+- 👋 Hi, I’m @Miky
+- 👀 I’m interested in Programming and Game Design
 - 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate with anything that allows me to enter the world of video game production
 - 📫 How to reach me: Discord Mikynose#3092
 
 <!---
